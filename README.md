@@ -12,7 +12,6 @@ Online payment fraud is a significant challenge for financial institutions and b
 - **Model Training**: Implementing and training different machine learning models, including XGBoost, CatBoost, and LightGBM.
 - **Evaluation Metrics**: Assessing model performance using metrics such as F1 Score, ROC-AUC Score, and accuracy.
 - **Feature Importance**: Analyzing important features that contribute to detecting fraudulent transactions.
-- **Deployment**: Considerations for deploying the best-performing model in a production environment.
 
 ## Dataset
 
